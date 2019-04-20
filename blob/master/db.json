@@ -1,6 +1,5 @@
-{
-    "currentLat":"45125",
-    "currentLong":"1254666",
-    "timestamp":"1981",
+{ "Location":[
+    {"currentLat":"45125", "currentLong":"1254666", "timestamp":"1981"}
+    ]
   
 }
