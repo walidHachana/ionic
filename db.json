@@ -1,7 +1,11 @@
-{ 
-  "Location":
-  [
-    {"currentLat":"45125", "currentLong":"1254666", "timestamp":"1981"}
-  ]
-  
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
